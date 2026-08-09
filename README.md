@@ -1,2 +1,3 @@
-# Template-Agent-Python
-Generated Agent-ready Python + uv template. Source: upiscium/Templates; do not edit directly.
+# @@PROJECT_NAME@@
+
+Agent-ready Python project using uv, Ruff, Mypy, Pytest, Nix, Just, and the shared Agent Core.
